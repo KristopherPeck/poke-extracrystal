@@ -6735,7 +6735,7 @@ static const struct LevelUpMove sSwinubLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sPiloswineLevelUpLearnset[] = {
-    LEVEL_UP_MOVE( 0, MOVE_FURY_ATTACK),
+    LEVEL_UP_MOVE( 0, MOVE_ANCIENT_POWER),
     LEVEL_UP_MOVE( 1, MOVE_FURY_ATTACK),
     LEVEL_UP_MOVE( 1, MOVE_ANCIENT_POWER),
     LEVEL_UP_MOVE( 1, MOVE_PECK),
