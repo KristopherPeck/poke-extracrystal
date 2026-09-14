@@ -68657,7 +68657,7 @@
               {
                 "min_level": 19,
                 "max_level": 26,
-                "species": "SPECIES_MR_MIME"
+                "species": "SPECIES_MIME_JR"
               }
             ]
           },
@@ -68965,7 +68965,7 @@
               {
                 "min_level": 19,
                 "max_level": 26,
-                "species": "SPECIES_ONIX"
+                "species": "SPECIES_BONSLY"
               }
             ]
           }
