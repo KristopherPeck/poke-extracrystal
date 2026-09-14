@@ -37792,9 +37792,9 @@
                 "species": "SPECIES_LARVITAR"
               },
               {
-                "min_level": 4,
+                "min_level": 3,
                 "max_level": 4,
-                "species": "SPECIES_DUNSPARCE"
+                "species": "SPECIES_WYNAUT"
               }
             ]
           },
@@ -39336,7 +39336,7 @@
               {
                 "min_level": 8,
                 "max_level": 9,
-                "species": "SPECIES_MARILL"
+                "species": "SPECIES_AZURILL"
               },
               {
                 "min_level": 8,
@@ -43412,8 +43412,8 @@
               },
               {
                 "min_level": 33,
-                "max_level": 40,
-                "species": "SPECIES_DITTO"
+                "max_level": 35,
+                "species": "SPECIES_HAPPINY"
               }
             ]
           },
